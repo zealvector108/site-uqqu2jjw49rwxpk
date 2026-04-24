@@ -1,40 +1,31 @@
 {
-	"templateId": "generic",
-	"businessName": "Your Business",
-	"tagline": "Professional services you can trust",
-	"primaryColor": "#7c3aed",
-	"secondaryColor": "#f3f4f6",
-	"font": "Inter",
-	"heroImageUrl": "",
-	"aboutImageUrl": "",
-	"aboutText": "",
-	"footerText": "",
-	"whatsappNumber": "",
-	"googleMapsEmbedUrl": "",
-	"web3formsAccessKey": "",
-	"email": "",
-	"phone": "",
-	"address": "",
-	"hours": "",
-	"hero": { "headline": "", "subheadline": "", "ctaText": "Get a Quote", "image": "", "imagePrompt": "" },
-	"about": { "text": "", "image": "", "imagePrompt": "" },
-	"contact": { "email": "", "phone": "", "address": "", "hours": "", "whatsappNumber": "" },
-	"services": [],
-	"products": [],
-	"testimonials": [],
-	"pages": [
-		{
-			"slug": "home",
-			"name": "Home",
-			"sections": [
-				{ "type": "hero" },
-				{ "type": "services" },
-				{ "type": "testimonials" },
-				{ "type": "about" },
-				{ "type": "contact" },
-				{ "type": "footer" }
-			]
-		}
-	],
-	"sections": []
+  "aboutText": "",
+  "address": "",
+  "businessName": "Zen Studio",
+  "email": "",
+  "font": "Inter",
+  "footerText": "",
+  "hours": "",
+  "industry": "",
+  "pages": [],
+  "phone": "",
+  "primaryColor": "#7c3aed",
+  "sections": [
+    {
+      "id": "hero",
+      "type": "hero"
+    }
+  ],
+  "services": [],
+  "tagline": "Calm your mind",
+  "templateId": "yoga",
+  "testimonials": [],
+  "whatsappNumber": "",
+  "contact": {
+    "email": "",
+    "phone": "",
+    "address": "",
+    "hours": "",
+    "whatsappNumber": ""
+  }
 }
